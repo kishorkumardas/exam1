@@ -1,0 +1,113 @@
+.wrapper{
+	margin: 0 auto;
+}
+.first{
+	width: 46%;
+	height: auto;
+	/*border: 2px solid green;*/
+	float: left;
+}
+.logo{
+	width: 95%;
+	height: 44vh;
+	/*border: 2px solid red;*/
+}
+.profile{
+	width: 95%;
+	height: 44vh;
+	/*border: 2px solid red;*/
+
+}
+.contact{
+	width: 95%;
+	height: 29vh;
+	/*border: 2px solid red;*/
+}
+.skills{
+	width: 95%;
+	height: auto;
+	/*border: 2px solid red;*/
+}
+.second{
+	width: 46%;
+	height: 150vh;
+	/*border: 2px solid blue;*/
+	float: right;
+}
+.education{
+	width: 95%;
+	height: 55vh;
+	/*border: 2px solid red;*/
+}
+.experience{
+	width: 95%;
+	height: 55vh;
+	/*border: 2px solid red;*/
+}
+.software{
+	width: 95%;
+	height: 40vh;
+	/*border: 2px solid red;*/
+}
+.logo img{
+	margin-left: 40%;
+	margin-top: 2%;
+}
+.logo h1{
+	text-align: center;
+}
+.logo h2{
+	text-align: center;
+	font-size: 40px;
+	font-weight: bolder;
+	margin-top: -25px;
+}
+.logo h3{
+	text-align: center;
+	font-size: 14px;
+	font-weight: bold;
+	margin-top: -28px;
+}
+.skills h1{
+	text-transform: uppercase;
+	font-size: 10px;
+	text-align: center;
+	margin: 0;
+}
+.skills h2{
+	text-align: center;
+	margin: 0;
+}
+.skills img{
+	margin-left: 120px;
+}
+.education li{
+	margin: 0;
+}
+.education h2{
+	font-size: 10px;
+	margin-left: 0;
+	margin-left: 30px;
+}
+.education p{
+	font-size: 10px;
+	margin: 0;
+	margin-left: 30px;
+}
+.experience li{
+	margin: 0;
+}
+.experience h2{
+	font-size: 10px;
+	margin-left: 0;
+	margin-left: 30px;
+}
+.experience p{
+	font-size: 10px;
+	margin: 0;
+	margin-left: 30px;
+}
+.contact{
+	margin: 0;
+	font-size: 10px;
+}
